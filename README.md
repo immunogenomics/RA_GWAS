@@ -1,6 +1,7 @@
 # Overview
 We conducted a large-scale genome-wide association study (GWAS) of rheumatoid arthritis (RA) which includes 276,020 samples of five ancestral groups. We included 37 cohorts comprising 35,871 RA patients and 240,149 control individuals of EUR, EAS, AFR, SAS, and ARB ancestry (Figure 1a). PCA and UMAP analysis confirmed that participants included representation of many of the 1KG Phase 3 ancestries.
-- Reference: Ishigaki K et al. Trans-ancestry genome-wide association study identifies novel genetic mechanisms in rheumatoid arthritis. MedRxiv 2021 (in prep.)
+
+**Reference: Ishigaki K et al. Trans-ancestry genome-wide association study identifies novel genetic mechanisms in rheumatoid arthritis. MedRxiv 2021 (in prep.)**
 
 
 ## Main achievements in this GWAS
