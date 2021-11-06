@@ -17,3 +17,13 @@ We conducted a large-scale genome-wide association study (GWAS) of rheumatoid ar
 (b) PCA plot of all GWAS samples. 
 (c) UMAP plots of all GWAS samples. 
 
+## The summary statistics and the best PRS model are available at the following link.
+- https://data.cyverse.org/dav-anon/iplant/home/kazuyoshiishigaki/ra_gwas/ra_gwas-10-28-2021.tar
+- You can download it using the codes like this:
+```
+wget https://data.cyverse.org/dav-anon/iplant/home/kazuyoshiishigaki/ra_gwas/ra_gwas-10-28-2021.tar
+  #this code will download "ra_gwas-10-28-2021.tar" to the current directory
+tar -xvf ra_gwas-10-28-2021.tar
+  #this code will extract contents of the tar file and you will be able to find a directory named "10-28-2021"
+  #"10-28-2021" contains the sumstats and the PRS model.
+```
