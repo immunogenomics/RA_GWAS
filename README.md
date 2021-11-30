@@ -4,7 +4,7 @@ We conducted a large-scale genome-wide association study (GWAS) of rheumatoid ar
 **Reference: Ishigaki K et al. Trans-ancestry genome-wide association study identifies novel genetic mechanisms in rheumatoid arthritis. MedRxiv 2021 (in prep.)**
 
 
-## Main achievements in this GWAS
+## Main findings
 - We identified 124 significant loci, of which 34 were novel.
 - Trans-ethnic fine mapping identified putatively causal variants with biological insights (e.g., LEF1) and less than ten 95% credible sets at 43 loci.
 - Candidate genes at the novel loci suggested essential roles of the immune system (e.g., TNIP2 and TNFRSF11A) and joint tissues (e.g., WISP1) in RA etiology.
