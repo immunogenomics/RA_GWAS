@@ -1,1 +1,2 @@
-#R script to create figures
+## R script to create figures in our manuscript
+
