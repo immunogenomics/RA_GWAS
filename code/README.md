@@ -17,24 +17,10 @@
 - credibleset_calc.R: the script used for fine-mapping based on ABF.
 
 ### 4, PRS
-- add_impact_to_gwassumstats.sh: the script used to combine the GWAS sumstats and IMPACT scores.
+- add_impact_to_gwassumstats.sh and sort_by_score.R: the script used to combine the GWAS sumstats and IMPACT scores.
 - clump_eur.sh: the script used to conduct clumping in EUR-GWAS.
 - clump_eas.sh: the script used to conduct clumping in EAS-GWAS.
 - prs_calc.sh: the script used to calculate PRS.
 
 ### 5, Misc
 - ld_calculation.sh: the script used to calculate LD.
-
-
-
-
-
-
-
-
-
-
-
-sort_by_score.R
-
-
